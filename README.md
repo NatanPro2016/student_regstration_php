@@ -1,4 +1,4 @@
-copy this folder to xapp/htdocs 
+copy this folder to xmapp/htdocs 
 
 create database called "class"
 
