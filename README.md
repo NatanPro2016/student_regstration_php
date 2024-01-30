@@ -1,5 +1,8 @@
-copy this folder to xmapp/htdocs 
 
-create database called "class"
+Copy this folder to xmapp/htdocs 
 
-you should good to go 
+Create database called "class"
+
+And import the class.sql file to php my admin 
+
+You should good to go 
